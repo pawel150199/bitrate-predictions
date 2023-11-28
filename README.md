@@ -1,1 +1,1 @@
-## Bitrate prediction using SIX and WASX dataset
+## Bitrate prediction using SIX and WASK dataset
